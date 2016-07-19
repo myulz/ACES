@@ -43,7 +43,12 @@ p {
   margin-bottom: 20px;
 }
 
-
+.item-active {
+    width:100%;
+    max-height:200px;
+    overflow: hidden;
+    
+}
 
 .bg-primary {
   background-color: #F05F40;
