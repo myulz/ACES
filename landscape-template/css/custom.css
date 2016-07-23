@@ -39,25 +39,21 @@ hr{
     color:dimgray;
 }
 
-#services{
-    padding-bottom:200px;
-}
-
-#about,#abouttitle,#aboutlogo{
-    
-    padding-top:80px;
-}
 
 #about{
     padding-bottom:400px;
 }
 
 
-#gallery,#gallerytitle{
+#gallery,#gallerytitle,#about,#abouttitle,#aboutlogo{
     
     padding-top:80px;
 }
 
-#gallery{
+#gallery,#services{
     padding-bottom:200px;
+}
+
+#contact{
+    padding-bottom:50px;
 }
