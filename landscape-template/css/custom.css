@@ -57,3 +57,74 @@ hr{
 #contact{
     padding-bottom:50px;
 }
+
+.navbar-brand{
+    text-shadow:1px 1px black;
+}
+
+/*-------------COLOR CHANGE----------*/
+
+hr {
+    border-color: dodgerblue;
+}
+hr.light {
+    border-color: dodgerblue;
+}
+a {
+    color: dodgerblue;
+}
+
+.bg-primary {
+    background-color: dodgerblue;/*PRIMARY COLOR*/
+}
+
+.navbar-default .navbar-header .navbar-brand {
+    color: dodgerblue;/*PRIMARY COLOR*/
+}
+
+
+.navbar-default .nav > li > a:focus:hover {
+    color: dodgerblue;/*PRIMARY COLOR*/
+}
+.navbar-default .nav > li.active > a,
+.navbar-default .nav > li.active > a:focus {
+    color: dodgerblue !important; /*PRIMARY COLOR*/
+}
+
+ .navbar-default.affix .navbar-header .navbar-brand {
+        color: dodgerblue;
+    }
+    .navbar-default.affix .navbar-header .navbar-brand:hover,
+    .navbar-default.affix .navbar-header .navbar-brand:focus {
+        color: dodgerblue;
+    }
+
+
+.navbar-default.affix .nav > li > a:focus:hover {
+        color: dodgerblue;
+    }
+
+
+.text-primary {
+    color: dodgerblue;
+}
+
+
+.btn-primary {
+    color: white;
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+   
+}
+
+fieldset[disabled] .btn-primary.active {
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+}
+.btn-primary .badge {
+    color: dodgerblue;
+    background-color: white;
+}
+
+
+/*-------------/COLOR CHANGE----------*/
