@@ -1,0 +1,63 @@
+.carousel-inner {
+    background-size: cover;
+}
+
+.phoneico{
+   
+    background:url(../icons/ic_phone_white_48px.svg) no-repeat center;
+    height:100px;
+    
+}
+
+.emailico{
+   
+    background:url(../icons/ic_email_white_48px.svg) no-repeat center;
+    height:100px;
+    
+}
+
+.chatico{
+   
+    background:url(../icons/ic_chat_white_48px.svg) no-repeat center;
+    height:100px;
+    
+}
+
+hr{
+    background-color:white;
+}
+
+
+
+.navbar{
+    font-style:italic;
+}
+
+#services, #servicestitle,#gallery,#gallerytitle{
+    background-color:white;
+    padding-top:80px;
+    color:dimgray;
+}
+
+#services{
+    padding-bottom:200px;
+}
+
+#about,#abouttitle,#aboutlogo{
+    
+    padding-top:80px;
+}
+
+#about{
+    padding-bottom:400px;
+}
+
+
+#gallery,#gallerytitle{
+    
+    padding-top:80px;
+}
+
+#gallery{
+    padding-bottom:200px;
+}
