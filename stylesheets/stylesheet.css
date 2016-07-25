@@ -217,6 +217,9 @@ a:hover{
     color:blueviolet;
 }
 
+a:visited{
+    color:#666;
+}
 .btn:hover {
   background: -webkit-linear-gradient(top, rgba(40, 40, 40, 0.6), rgba(35, 35, 35, 0.6) 50%, rgba(10, 10, 10, 0.8) 50%, rgba(0, 0, 0, 0.8));
     color:floralwhite;
