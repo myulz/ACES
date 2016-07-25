@@ -207,9 +207,13 @@ hr {
 
 h1:hover{
     color:deepskyblue;
-}s
+}
 
 h2:hover{
+    color:blueviolet;
+}
+
+a:hover{
     color:blueviolet;
 }
 
