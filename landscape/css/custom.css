@@ -12,10 +12,7 @@ h4 {
     background: url(../icons/ic_email_white_48px.svg) no-repeat center;
     height: 100px;
 }
-.chatico {
-    background: url(../icons/ic_chat_white_48px.svg) no-repeat center;
-    height: 100px;
-}
+
 hr {
     background-color: white;
 }
