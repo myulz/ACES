@@ -61,7 +61,7 @@ p.capitalize {
     float: none;
 }
 #services {
-    padding-bottom: 100px;
+    
 }
 #contact {
     height: 180px;
@@ -69,6 +69,9 @@ p.capitalize {
     background-color: #00BCD4;
     color:white;
     
+}
+#extra{
+    padding-bottom:50px;
 }
 .phoneico {
     background: url(icons/ic_phone_white_48px.svg) no-repeat center;
