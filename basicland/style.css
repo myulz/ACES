@@ -1,0 +1,95 @@
+/*
+
+accent: #69F0AE
+
+#69F0AE
+
+
+*/
+html {
+    background-color: #4CAF50;
+    
+}
+body {
+    background-color: #666;
+    font-family: 'Raleway', sans-serif;
+}
+h1 {
+    color: #69F0AE;
+}
+.topbar {
+    height: 50px;
+    color: white;
+    background-color: #4CAF50;
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
+.navlogo {
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+.fa {
+    color: white;
+}
+.navbar {
+    background-color: #A5D6A7;
+    color: white;
+}
+.navbar a {
+    color: white;
+}
+.icon-bar {
+    background-color: white;
+}
+.nav {
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+}
+.nav > li > a:hover {
+    /*background-color: #E0F7FA;*/
+     background-color: #A5D6A7;
+    color: #00C853;
+}
+p.uppercase {
+    text-transform: uppercase;
+}
+p.lowercase {
+    text-transform: lowercase;
+}
+p.capitalize {
+    text-transform: capitalize;
+}
+.teamtitle {
+    padding-bottom: 50px;
+}
+.logo {
+    color: white;
+    display: inline-block;
+    float: none;
+}
+#services {
+    
+}
+#contact {
+    height: 180px;
+    width: 100%;
+    background-color: #4CAF50;
+    color:white;
+    
+}
+#extra{
+    padding-bottom:50px;
+}
+.phoneico {
+    background: url(icons/ic_phone_white_48px.svg) no-repeat center;
+    height: 100px;
+}
+.emailico {
+    background: url(icons/ic_email_white_48px.svg) no-repeat center;
+    height: 100px;
+}
+
+p{
+    color:white;
+}
