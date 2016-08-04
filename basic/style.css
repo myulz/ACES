@@ -73,11 +73,3 @@ p.capitalize {
 #extra{
     padding-bottom:50px;
 }
-.phoneico {
-    background: url(icons/ic_phone_white_48px.svg) no-repeat center;
-    height: 100px;
-}
-.emailico {
-    background: url(icons/ic_email_white_48px.svg) no-repeat center;
-    height: 100px;
-}
